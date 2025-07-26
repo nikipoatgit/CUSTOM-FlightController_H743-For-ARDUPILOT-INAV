@@ -15519,6 +15519,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
