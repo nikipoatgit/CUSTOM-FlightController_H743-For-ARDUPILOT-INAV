@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-Front.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-Back.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-F_Paste.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-B_Paste.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-F_Mask.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-B_Mask.gbr'.
+Plotted to 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\nikhi\Downloads\kicad_templates-master\fc_nickel_v1.0-job.gbrjob'.
+Info: Done.
+Info: Done.
