@@ -1,4 +1,4 @@
-26438504902890849
+26442016750468873
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105630,6 +105630,13 @@ LGA_14_ICM42688
 14
 14
 fc_nickel
+WE_ACT_STM32H7xx
+STM32H7xx Core Board By WeActStudio
+
+0
+96
+92
+fc_nickel
 XTAL1170X500X450_crystal
 
 
@@ -105664,3 +105671,17 @@ usb_typ_b
 0
 10
 10
+we_act_stmh743
+STM32H7xx Core Board
+STM32H7xx Core Board By WeActStudio
+
+0
+96
+92
+we_act_stmh743
+STM32H7xx Core Board SMT
+STM32H7xx Core Board By WeActStudio
+
+0
+96
+92
